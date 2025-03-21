@@ -1,4 +1,6 @@
-# Welcome to Herald
+![icon](http://software.rochus-keller.ch/herald128.png)
+
+## Welcome to Herald
 
 Herald is a personal information manager (PIM) application with integrated email, calendar, schedule board, outliner
 and full-text search.
@@ -15,7 +17,11 @@ Herald is best used in combination with CrossLine, so emails, tasks, deadlines a
 the relevant context. 
 
 
-A demo repository and screenshots are in preparation.
+![Email Screenshot](http://software.rochus-keller.ch/Herald-Emails.png)
+
+
+![Calendar Screenshot](http://software.rochus-keller.ch/Herald-Calendar.png)
+
 
 ## Download and Installation
 
