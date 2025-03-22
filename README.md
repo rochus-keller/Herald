@@ -5,7 +5,7 @@
 Herald is a personal information manager (PIM) application with integrated email, calendar, schedule board, outliner
 and full-text search.
 Herald has sophisticated cross-link capabilities, supporting active links between all object types. It is also possible
-to reference Herald objects from other applications such as CrossLine and vice versa. These unique features make Herald a 
+to reference Herald objects from other applications such as [CrossLine](https://github.com/rochus-keller/crossline/) and vice versa. These unique features make Herald a 
 much more useful tool than the usual e-mail clients with integrated calendars. It has been in development and continuous operation since 2013.
 
 I actually implemented Herald due to frustration about the low degree of suitability of existing tools for my own information management. 
@@ -13,7 +13,7 @@ At the time I started to implement Herald (and CrossLine) I was working as a man
 The majority of communication and the administration of appointments and action items based and depended mostly on email. The commonly available 
 tools were simply unable to cope with the amount and complexity of information generated in the countless sub-projects. 
 
-Herald is best used in combination with CrossLine, so emails, tasks, deadlines and appointments can be referenced and managed in 
+Herald is best used in combination with [CrossLine](https://github.com/rochus-keller/crossline/), so emails, tasks, deadlines and appointments can be referenced and managed in 
 the relevant context. 
 
 
